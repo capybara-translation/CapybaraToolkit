@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" sdl:version="1.0">
+	<doc-info xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+		<rep-defs>
+			<rep-def id="tw0vx2nEP/u462bRYam7y6zRNeU=">
+				<entry tu="efa5d8d5-8291-48af-a47e-9cbd25e709e6" seg="1"/>
+				<entry tu="c70a0969-f44e-4873-a2bc-7c370dc8d495" seg="16"/>
+			</rep-def>
+			<rep-def id="IhQYJtaCA5v7cD4+UPbiJqblY8g=">
+				<entry tu="efa5d8d5-8291-48af-a47e-9cbd25e709e6" seg="2"/>
+				<entry tu="c70a0969-f44e-4873-a2bc-7c370dc8d495" seg="17"/>
+			</rep-def>
+			<rep-def id="Vm3JZqXOk4HCcp0wyo7rXGR6R58=">
+				<entry tu="efa5d8d5-8291-48af-a47e-9cbd25e709e6" seg="3"/>
+				<entry tu="c70a0969-f44e-4873-a2bc-7c370dc8d495" seg="18"/>
+			</rep-def>
+			<rep-def id="LOxPtF4VveCPQSa/RcqpXyZa2Oc=">
+				<entry tu="17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b" seg="4 a"/>
+				<entry tu="540c90a5-5bd1-4eeb-ab1a-d0fde204f123" seg="19"/>
+			</rep-def>
+			<rep-def id="/kePbC7E4fGaP/5pJzRxt349kew=">
+				<entry tu="17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b" seg="4 b a"/>
+				<entry tu="540c90a5-5bd1-4eeb-ab1a-d0fde204f123" seg="20"/>
+			</rep-def>
+			<rep-def id="Vt8od/a8K5FYh+QQ3lRdf8/rBco=">
+				<entry tu="17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b" seg="4 b b a"/>
+				<entry tu="540c90a5-5bd1-4eeb-ab1a-d0fde204f123" seg="21"/>
+			</rep-def>
+			<rep-def id="nYBJw3DItOggDn+w9SdHE+QQl4I=">
+				<entry tu="17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b" seg="4 b b b"/>
+				<entry tu="c257616c-aa16-4a65-a53d-83b559c8550e" seg="22"/>
+			</rep-def>
+			<rep-def id="KwhWVs2ckC38imrWYNS2sWH2+YY=">
+				<entry tu="ddf67bd7-8bc1-492e-be21-398fb3996c75" seg="8"/>
+				<entry tu="c257616c-aa16-4a65-a53d-83b559c8550e" seg="23"/>
+			</rep-def>
+			<rep-def id="uWZconDVXtWL/ObamcqU3zmit58=">
+				<entry tu="ddf67bd7-8bc1-492e-be21-398fb3996c75" seg="9"/>
+				<entry tu="c257616c-aa16-4a65-a53d-83b559c8550e" seg="24"/>
+			</rep-def>
+			<rep-def id="QA5fq6qp+2QmW3cv7lLX7OvO/Ck=">
+				<entry tu="e2c0cb6d-6965-41f6-ab54-04e165038991" seg="10"/>
+				<entry tu="46f9e8a4-6c16-49b6-9f15-df1bde90dfa9" seg="25"/>
+			</rep-def>
+			<rep-def id="28e83UdKYEkefOKoUSpJPCnw2II=">
+				<entry tu="e2c0cb6d-6965-41f6-ab54-04e165038991" seg="11"/>
+				<entry tu="46f9e8a4-6c16-49b6-9f15-df1bde90dfa9" seg="26"/>
+			</rep-def>
+			<rep-def id="j0rIQpYGaYcLYsLrZWl953IEgI8=">
+				<entry tu="e2c0cb6d-6965-41f6-ab54-04e165038991" seg="12"/>
+				<entry tu="46f9e8a4-6c16-49b6-9f15-df1bde90dfa9" seg="27"/>
+			</rep-def>
+			<rep-def id="RDtLmZGf435TeRSMHeZdoBs/Dmc=">
+				<entry tu="01fd62ab-7771-4567-9313-8bba5a6182cb" seg="13"/>
+				<entry tu="234cdf60-24fd-4392-8d90-73f1d362e5f4" seg="28"/>
+			</rep-def>
+			<rep-def id="BsDbZVt0kDA1o5Vy6/NW5WtpfgA=">
+				<entry tu="01fd62ab-7771-4567-9313-8bba5a6182cb" seg="14"/>
+				<entry tu="234cdf60-24fd-4392-8d90-73f1d362e5f4" seg="29"/>
+			</rep-def>
+			<rep-def id="r0mpM0jn8M6Nk2fFw71iCvgSvSw=">
+				<entry tu="01fd62ab-7771-4567-9313-8bba5a6182cb" seg="15"/>
+				<entry tu="234cdf60-24fd-4392-8d90-73f1d362e5f4" seg="30"/>
+			</rep-def>
+		</rep-defs>
+		<cmt-defs>
+			<cmt-def id="4ed32fa1-171b-44f7-9705-bbdc99cb5b75">
+				<Comments>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:57:58.6608253+09:00" version="1.0">Comment1</Comment>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:58:25.5723433+09:00" version="2.0">Comment 3
+ABC</Comment>
+				</Comments>
+			</cmt-def>
+			<cmt-def id="7ec62c72-39ff-40d4-90be-aad1668ca670">
+				<Comments>
+					<Comment severity="Low" user="testuser" date="2020-04-05T16:48:40.7353915+09:00" version="1.0">Comment4</Comment>
+					<Comment severity="Low" user="testuser" date="2020-04-05T16:48:57.7429602+09:00" version="2.0">Comment5</Comment>
+				</Comments>
+			</cmt-def>
+			<cmt-def id="310063af-0fda-4a7a-b6ce-4f24d010fe32">
+				<Comments>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:58:07.9218151+09:00" version="1.0">Comment 2</Comment>
+				</Comments>
+			</cmt-def>
+			<cmt-def id="a3718ebe-6490-49fc-b832-a4bb1664d048">
+				<Comments>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:58:37.2728826+09:00" version="1.0">Segment-level comment</Comment>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:58:47.1073441+09:00" version="2.0">Segment-level comment2</Comment>
+				</Comments>
+			</cmt-def>
+			<cmt-def id="568fe58e-dfc2-409b-b157-fc73818dbde5">
+				<Comments>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:59:02.3452167+09:00" version="1.0">File-level comment1</Comment>
+					<Comment severity="Low" user="testuser" date="2020-04-05T15:59:12.1199617+09:00" version="2.0">File-level comment2</Comment>
+				</Comments>
+			</cmt-def>
+		</cmt-defs>
+	</doc-info>
+	<file original="C:\Users\testuser\Documents\test.docx" datatype="x-sdlfilterframework2" source-language="ja-JP" target-language="en-us">
+		<header>
+			<reference>
+				<internal-file form="base64"></internal-file>
+			</reference>
+			<sdl:ref-files>
+				<sdl:ref-file uid="0" id="Docx.DependencyFileId" name="s5xjtb4a.m2a.docx" o-path="C:\Users\testuser\Documents\test.docx" date="04/05/2020 06:54:54" expected-use="Generation"/>
+			</sdl:ref-files>
+			<file-info xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<value key="SDL:FileId">4ef791d9-8c29-41ee-9e94-0dcae44d512c</value>
+				<value key="SDL:CreationDate">04/05/2020 15:55:45</value>
+				<value key="SDL:OriginalFilePath">C:\Users\testuser\Documents\test.docx</value>
+				<value key="SDL:QuickInsertsList">qBold;qItalic;qUnderline;qSubscript;qSuperscript;qSmallCaps;qNonBreakingHyphen;qOptionalHyphen;qNoBold;qNoItalic;qNoUnderline;qNoSubscript;qNoSuperscript;qStrikeThrough;qNoStrikeThrough;qNoSmallCaps</value>
+				<value key="NeedsSegmentRenumbering">False</value>
+				<value key="RelationshipHighestId">7</value>
+				<value key="CommentHighestId">0</value>
+				<value key="ParagraphTextDirections"/>
+				<sniff-info>
+					<detected-source-lang detection-level="Guess" lang="ja-JP"/>
+				</sniff-info>
+			</file-info>
+			<sdl:filetype-info>
+				<sdl:filetype-id>WordprocessingML v. 2</sdl:filetype-id>
+			</sdl:filetype-info>
+			<fmt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<fmt-def id="1">
+					<value key="FontSize">10.5</value>
+				</fmt-def>
+				<fmt-def id="2">
+					<value key="Bold">True</value>
+				</fmt-def>
+				<fmt-def id="3">
+					<value key="Italic">True</value>
+				</fmt-def>
+				<fmt-def id="4">
+					<value key="Underline">True</value>
+				</fmt-def>
+				<fmt-def id="5">
+					<value key="TextPosition">Superscript</value>
+				</fmt-def>
+				<fmt-def id="6">
+					<value key="TextPosition">Subscript</value>
+				</fmt-def>
+				<fmt-def id="7">
+					<value key="smallcaps">on</value>
+				</fmt-def>
+			</fmt-defs>
+			<cxt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<cxt-def id="1" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">2304</value>
+						<value key="EndsAt">2669</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="2" type="sdl:paragraph"/>
+				<cxt-def id="3" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">2675</value>
+						<value key="EndsAt">3053</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="4" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3059</value>
+						<value key="EndsAt">3428</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="5" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3434</value>
+						<value key="EndsAt">3829</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="6" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3835</value>
+						<value key="EndsAt">4136</value>
+						<value key="ParagraphFormatting"/>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+			</cxt-defs>
+			<tag-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<tag id="Bold">
+					<bpt name="cf" can-hide="true" word-end="false">&lt;cf bold=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:b">&lt;w:b/&gt;</value>
+					</bpt-props>
+					<ept name="cf" can-hide="true" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="2"/>
+				</tag>
+				<tag id="Italic">
+					<bpt name="cf" can-hide="true" word-end="false">&lt;cf italic=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:i">&lt;w:i/&gt;</value>
+					</bpt-props>
+					<ept name="cf" can-hide="true" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="3"/>
+				</tag>
+				<tag id="Underline">
+					<bpt name="cf" can-hide="true" word-end="false">&lt;cf underline=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:u">&lt;w:u w:val=&quot;single&quot;/&gt;</value>
+					</bpt-props>
+					<ept name="cf" can-hide="true" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="4"/>
+				</tag>
+				<tag id="Superscript">
+					<bpt name="cf" can-hide="true" word-end="false">&lt;cf Superscript=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:vertAlign">&lt;w:vertAlign w:val=&quot;superscript&quot;/&gt;</value>
+					</bpt-props>
+					<ept name="cf" can-hide="true" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="5"/>
+				</tag>
+				<tag id="Subscript">
+					<bpt name="cf" can-hide="true" word-end="false">&lt;cf Subscript=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:vertAlign">&lt;w:vertAlign w:val=&quot;subscript&quot;/&gt;</value>
+					</bpt-props>
+					<ept name="cf" can-hide="true" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="6"/>
+				</tag>
+				<tag id="SmallCaps">
+					<bpt name="cf" word-end="false">&lt;cf smallCaps=True&gt;</bpt>
+					<bpt-props>
+						<value key="IsQuickTagMetaData">True</value>
+						<value key="w:smallCaps">&lt;w:smallCaps/&gt;</value>
+					</bpt-props>
+					<ept name="cf" word-end="false">&lt;/cf&gt;</ept>
+					<fmt id="7"/>
+				</tag>
+			</tag-defs>
+			<sdl:cmt id="568fe58e-dfc2-409b-b157-fc73818dbde5"/>
+		</header>
+		<body>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="1"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="efa5d8d5-8291-48af-a47e-9cbd25e709e6">
+					<source>ビデオを使うと、伝えたい内容を明確に表現できます。[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="1">ビデオを使うと、伝えたい内容を明確に表現できます。</mrk>
+						<mrk mtype="seg" mid="2">[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。</mrk>
+						<mrk mtype="seg" mid="3">キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="1"><mrk mtype="x-sdl-comment" sdl:cid="4ed32fa1-171b-44f7-9705-bbdc99cb5b75"><mrk mtype="x-sdl-comment" sdl:cid="7ec62c72-39ff-40d4-90be-aad1668ca670"><mrk mtype="x-sdl-comment" sdl:cid="310063af-0fda-4a7a-b6ce-4f24d010fe32">With videos</mrk>, you can clearly articulate</mrk></mrk> what you want to convey.</mrk>
+						<mrk mtype="seg" mid="2">Clicking Online Video will allow you to paste the video you want to add in the corresponding embed code.</mrk>
+						<mrk mtype="seg" mid="3"><mrk mtype="x-sdl-comment" sdl:cid="a3718ebe-6490-49fc-b832-a4bb1664d048">You can also enter keywords to search online for the best video for your document.</mrk></mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="1" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="tw0vx2nEP/u462bRYam7y6zRNeU="/>
+							<sdl:value key="SegmentIdentityHash">tw0vx2nEP/u462bRYam7y6zRNeU=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:55:53</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:55:54</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="2" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="IhQYJtaCA5v7cD4+UPbiJqblY8g="/>
+							<sdl:value key="SegmentIdentityHash">IhQYJtaCA5v7cD4+UPbiJqblY8g=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:55:54</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:55:55</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="3" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="Vm3JZqXOk4HCcp0wyo7rXGR6R58="/>
+							<sdl:value key="SegmentIdentityHash">Vm3JZqXOk4HCcp0wyo7rXGR6R58=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:55:55</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:55:59</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="3"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b">
+					<source>Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。テーマとスタイルを使って、文書全体の統一感を出すこともできます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="4_x0020_a">Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。</mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_a">たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。</mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_b_x0020_a">[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。</mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_b_x0020_b">テーマとスタイルを使って、文書全体の統一感を出すこともできます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="4_x0020_a">Combine the header, footer, cover, and text box designs provided with Word to create professional-looking documents.</mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_a">For example, you can add matching covers, headers, and sidebars.</mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_b_x0020_a">Click <g id="Bold">Insert</g>, then <g id="Underline">select the desired <g id="Italic">element</g> in each gallery.</g></mrk>
+						<mrk mtype="seg" mid="4_x0020_b_x0020_b_x0020_b"><g id="Superscript">You</g><g id="Subscript">can</g> also use themes and styles to create a sense of unity <g id="SmallCaps">throughout</g> the document.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="4 a" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="LOxPtF4VveCPQSa/RcqpXyZa2Oc="/>
+							<sdl:prev-origin origin="interactive">
+								<sdl:rep id="LOxPtF4VveCPQSa/RcqpXyZa2Oc="/>
+								<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+									<sdl:prev-origin/>
+								</sdl:prev-origin>
+								<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="modified_on">04/05/2020 06:56:13</sdl:value>
+								<sdl:value key="SegmentIdentityHash">LOxPtF4VveCPQSa/RcqpXyZa2Oc=</sdl:value>
+							</sdl:prev-origin>
+							<sdl:value key="SegmentIdentityHash">LOxPtF4VveCPQSa/RcqpXyZa2Oc=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:56:17</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:17</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="4 b a" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="/kePbC7E4fGaP/5pJzRxt349kew="/>
+							<sdl:prev-origin origin="interactive">
+								<sdl:rep id="/kePbC7E4fGaP/5pJzRxt349kew="/>
+								<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+									<sdl:prev-origin/>
+									<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+									<sdl:value key="modified_on">04/05/2020 06:56:18</sdl:value>
+									<sdl:value key="SegmentIdentityHash">mfaK3gXWQ2QyeMug2PsMo5O3Olc=</sdl:value>
+									<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+									<sdl:value key="created_on">04/05/2020 06:56:18</sdl:value>
+								</sdl:prev-origin>
+								<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="modified_on">04/05/2020 06:56:21</sdl:value>
+								<sdl:value key="SegmentIdentityHash">/kePbC7E4fGaP/5pJzRxt349kew=</sdl:value>
+								<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="created_on">04/05/2020 06:56:18</sdl:value>
+							</sdl:prev-origin>
+							<sdl:value key="SegmentIdentityHash">/kePbC7E4fGaP/5pJzRxt349kew=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:56:24</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:23</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="4 b b a" conf="Draft" origin="interactive">
+							<sdl:rep id="Vt8od/a8K5FYh+QQ3lRdf8/rBco="/>
+							<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+								<sdl:rep id="Vt8od/a8K5FYh+QQ3lRdf8/rBco="/>
+								<sdl:prev-origin origin="interactive">
+									<sdl:rep id="Vt8od/a8K5FYh+QQ3lRdf8/rBco="/>
+									<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+										<sdl:prev-origin/>
+										<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+										<sdl:value key="modified_on">04/05/2020 06:56:25</sdl:value>
+										<sdl:value key="SegmentIdentityHash">LMM8vIT5PKZwmvjijECt+EyGIMU=</sdl:value>
+										<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+										<sdl:value key="created_on">04/05/2020 06:56:25</sdl:value>
+									</sdl:prev-origin>
+									<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+									<sdl:value key="modified_on">04/05/2020 06:56:34</sdl:value>
+									<sdl:value key="SegmentIdentityHash">Vt8od/a8K5FYh+QQ3lRdf8/rBco=</sdl:value>
+									<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+									<sdl:value key="created_on">04/05/2020 06:56:25</sdl:value>
+								</sdl:prev-origin>
+								<sdl:value key="SegmentIdentityHash">Vt8od/a8K5FYh+QQ3lRdf8/rBco=</sdl:value>
+								<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="modified_on">04/05/2020 06:56:39</sdl:value>
+								<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="created_on">04/05/2020 06:56:38</sdl:value>
+							</sdl:prev-origin>
+							<sdl:value key="SegmentIdentityHash">Vt8od/a8K5FYh+QQ3lRdf8/rBco=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">12/30/2020 15:42:10</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:38</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="4 b b b" conf="Draft" origin="interactive">
+							<sdl:rep id="nYBJw3DItOggDn+w9SdHE+QQl4I="/>
+							<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+								<sdl:rep id="nYBJw3DItOggDn+w9SdHE+QQl4I="/>
+								<sdl:prev-origin/>
+								<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="modified_on">04/05/2020 06:56:41</sdl:value>
+								<sdl:value key="SegmentIdentityHash">nYBJw3DItOggDn+w9SdHE+QQl4I=</sdl:value>
+								<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="created_on">04/05/2020 06:56:39</sdl:value>
+							</sdl:prev-origin>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">12/30/2020 15:43:08</sdl:value>
+							<sdl:value key="SegmentIdentityHash">nYBJw3DItOggDn+w9SdHE+QQl4I=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:39</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="4"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="ddf67bd7-8bc1-492e-be21-398fb3996c75">
+					<source>[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="7"/>
+						<mrk mtype="seg" mid="8">[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。</mrk>
+						<mrk mtype="seg" mid="9">スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="7"/>
+						<mrk mtype="seg" mid="8">Click Design and choose a new theme, and the diagrams, charts, and SmartArt graphics will change to match the new theme.</mrk>
+						<mrk mtype="seg" mid="9">When you apply a style, the headings change to match the new theme.‎‏</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="7" locked="true" conf="Translated" origin="interactive" origin-system="MergedParagraph">
+							<sdl:value key="SegmentIdentityHash">PrQWIj6eaea7juGXk5Ea0a0gJ9g=</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="8" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="KwhWVs2ckC38imrWYNS2sWH2+YY="/>
+							<sdl:value key="SegmentIdentityHash">KwhWVs2ckC38imrWYNS2sWH2+YY=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:42</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:56:42</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="9" conf="Draft" origin="interactive">
+							<sdl:rep id="uWZconDVXtWL/ObamcqU3zmit58="/>
+							<sdl:prev-origin origin="mt" origin-system="Google Cloud Translation API">
+								<sdl:rep id="uWZconDVXtWL/ObamcqU3zmit58="/>
+								<sdl:prev-origin/>
+								<sdl:value key="SegmentIdentityHash">uWZconDVXtWL/ObamcqU3zmit58=</sdl:value>
+								<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="created_on">04/05/2020 06:56:42</sdl:value>
+								<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+								<sdl:value key="modified_on">04/05/2020 06:56:43</sdl:value>
+							</sdl:prev-origin>
+							<sdl:value key="SegmentIdentityHash">uWZconDVXtWL/ObamcqU3zmit58=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:42</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">12/30/2020 15:43:46</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="5"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="e2c0cb6d-6965-41f6-ab54-04e165038991">
+					<source>Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="10">Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。</mrk>
+						<mrk mtype="seg" mid="11">文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。</mrk>
+						<mrk mtype="seg" mid="12">表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="10">Word displays new buttons on the fly when needed, so you can work more efficiently.</mrk>
+						<mrk mtype="seg" mid="11">To change the way photos are laid out in your document, click on a photo and a button with layout options will appear next to it.</mrk>
+						<mrk mtype="seg" mid="12">If you are working in a table, click where you want to add a row or column and click the plus sign.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="10" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="QA5fq6qp+2QmW3cv7lLX7OvO/Ck="/>
+							<sdl:value key="SegmentIdentityHash">QA5fq6qp+2QmW3cv7lLX7OvO/Ck=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:43</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:56:43</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="11" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="28e83UdKYEkefOKoUSpJPCnw2II="/>
+							<sdl:value key="SegmentIdentityHash">28e83UdKYEkefOKoUSpJPCnw2II=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:43</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:56:43</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="12" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="j0rIQpYGaYcLYsLrZWl953IEgI8="/>
+							<sdl:value key="SegmentIdentityHash">j0rIQpYGaYcLYsLrZWl953IEgI8=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:57:20</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:22</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="6"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="01fd62ab-7771-4567-9313-8bba5a6182cb">
+					<source>新しい閲覧ビューが導入され、閲覧もさらに便利になりました。文書の一部を折りたたんで、必要な箇所に集中することができます。最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="13">新しい閲覧ビューが導入され、閲覧もさらに便利になりました。</mrk>
+						<mrk mtype="seg" mid="14">文書の一部を折りたたんで、必要な箇所に集中することができます。</mrk>
+						<mrk mtype="seg" mid="15">最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="13">A new browsing view has been introduced, making browsing even more convenient.</mrk>
+						<mrk mtype="seg" mid="14">Collapse parts of your document so you can focus on where you need it.</mrk>
+						<mrk mtype="seg" mid="15">If you need to stop before you finish reading, Word remembers how much you&apos;ve read, even on another device.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="13" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="RDtLmZGf435TeRSMHeZdoBs/Dmc="/>
+							<sdl:value key="SegmentIdentityHash">RDtLmZGf435TeRSMHeZdoBs/Dmc=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:57:31</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:33</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="14" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="BsDbZVt0kDA1o5Vy6/NW5WtpfgA="/>
+							<sdl:value key="SegmentIdentityHash">BsDbZVt0kDA1o5Vy6/NW5WtpfgA=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:56:44</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:33</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="15" conf="Translated" origin="mt" origin-system="Google Cloud Translation API">
+							<sdl:rep id="r0mpM0jn8M6Nk2fFw71iCvgSvSw="/>
+							<sdl:value key="SegmentIdentityHash">r0mpM0jn8M6Nk2fFw71iCvgSvSw=</sdl:value>
+							<sdl:value key="created_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="created_on">04/05/2020 06:57:07</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:34</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+		</body>
+	</file>
+	<file original="C:\Users\testuser\Documents\test2.docx" datatype="x-sdlfilterframework2" source-language="ja-JP" target-language="en-us">
+		<header>
+			<reference>
+				<internal-file form="base64"></internal-file>
+			</reference>
+			<sdl:ref-files>
+				<sdl:ref-file uid="0" id="Docx.DependencyFileId" name="40cwtcto.l1y.docx" o-path="C:\Users\testuser\Documents\test2.docx" date="04/05/2020 06:54:54" expected-use="Generation"/>
+			</sdl:ref-files>
+			<file-info xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<value key="SDL:FileId">b3f405d4-7f7a-4d80-966c-605298c85b58</value>
+				<value key="SDL:CreationDate">04/05/2020 15:55:45</value>
+				<value key="SDL:OriginalFilePath">C:\Users\testuser\Documents\test2.docx</value>
+				<value key="SDL:QuickInsertsList">qBold;qItalic;qUnderline;qSubscript;qSuperscript;qSmallCaps;qNonBreakingHyphen;qOptionalHyphen;qNoBold;qNoItalic;qNoUnderline;qNoSubscript;qNoSuperscript;qStrikeThrough;qNoStrikeThrough;qNoSmallCaps</value>
+				<value key="NeedsSegmentRenumbering">False</value>
+				<value key="RelationshipHighestId">7</value>
+				<value key="CommentHighestId">0</value>
+				<value key="ParagraphTextDirections"/>
+				<sniff-info>
+					<detected-source-lang detection-level="Guess" lang="ja-JP"/>
+				</sniff-info>
+			</file-info>
+			<sdl:filetype-info>
+				<sdl:filetype-id>WordprocessingML v. 2</sdl:filetype-id>
+			</sdl:filetype-info>
+			<fmt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<fmt-def id="1">
+					<value key="FontSize">10.5</value>
+				</fmt-def>
+			</fmt-defs>
+			<cxt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+				<cxt-def id="1" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">2304</value>
+						<value key="EndsAt">2669</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="2" type="sdl:paragraph"/>
+				<cxt-def id="3" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">2675</value>
+						<value key="EndsAt">3053</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="4" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3059</value>
+						<value key="EndsAt">3428</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="5" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3434</value>
+						<value key="EndsAt">3829</value>
+						<value key="ParagraphFormatting">&lt;w:pPr&gt;&lt;w:rPr&gt;&lt;w:rFonts w:hint=&quot;eastAsia&quot;/&gt;&lt;/w:rPr&gt;&lt;/w:pPr&gt;</value>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+				<cxt-def id="6" type="LocationDetails" purpose="Location">
+					<fmt id="1"/>
+					<props>
+						<value key="StartsAt">3835</value>
+						<value key="EndsAt">4136</value>
+						<value key="ParagraphFormatting"/>
+						<value key="document">word\document.xml</value>
+					</props>
+				</cxt-def>
+			</cxt-defs>
+		</header>
+		<body>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="1"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="c70a0969-f44e-4873-a2bc-7c370dc8d495">
+					<source>ビデオを使うと、伝えたい内容を明確に表現できます。[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="16">ビデオを使うと、伝えたい内容を明確に表現できます。</mrk>
+						<mrk mtype="seg" mid="17">[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。</mrk>
+						<mrk mtype="seg" mid="18">キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="16">With videos, you can clearly articulate what you want to convey.</mrk>
+						<mrk mtype="seg" mid="17">Clicking Online Video will allow you to paste the video you want to add in the corresponding embed code.</mrk>
+						<mrk mtype="seg" mid="18">You can also enter keywords to search online for the best video for your document.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="16" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 1" percent="100">
+							<sdl:rep id="tw0vx2nEP/u462bRYam7y6zRNeU="/>
+							<sdl:value key="SegmentIdentityHash">tw0vx2nEP/u462bRYam7y6zRNeU=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:35</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="17" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 2" percent="100">
+							<sdl:rep id="IhQYJtaCA5v7cD4+UPbiJqblY8g="/>
+							<sdl:value key="SegmentIdentityHash">IhQYJtaCA5v7cD4+UPbiJqblY8g=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:35</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="18" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 3" percent="100">
+							<sdl:rep id="Vm3JZqXOk4HCcp0wyo7rXGR6R58="/>
+							<sdl:value key="SegmentIdentityHash">Vm3JZqXOk4HCcp0wyo7rXGR6R58=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:36</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="3"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="540c90a5-5bd1-4eeb-ab1a-d0fde204f123">
+					<source>Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="19">Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。</mrk>
+						<mrk mtype="seg" mid="20">たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。</mrk>
+						<mrk mtype="seg" mid="21">[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="19">Combine the header, footer, cover, and text box designs provided with Word to create professional-looking documents.</mrk>
+						<mrk mtype="seg" mid="20">For example, you can add matching covers, headers, and sidebars.</mrk>
+						<mrk mtype="seg" mid="21">Click Insert, then select the desired element in each gallery.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="19" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 4 a" percent="100">
+							<sdl:rep id="LOxPtF4VveCPQSa/RcqpXyZa2Oc="/>
+							<sdl:value key="SegmentIdentityHash">LOxPtF4VveCPQSa/RcqpXyZa2Oc=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:37</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="20" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 4 b a" percent="100">
+							<sdl:rep id="/kePbC7E4fGaP/5pJzRxt349kew="/>
+							<sdl:value key="SegmentIdentityHash">/kePbC7E4fGaP/5pJzRxt349kew=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:37</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="21" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 4 b b a" percent="100">
+							<sdl:rep id="Vt8od/a8K5FYh+QQ3lRdf8/rBco="/>
+							<sdl:value key="SegmentIdentityHash">Vt8od/a8K5FYh+QQ3lRdf8/rBco=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:38</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="4"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="c257616c-aa16-4a65-a53d-83b559c8550e">
+					<source>テーマとスタイルを使って、文書全体の統一感を出すこともできます。[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="22">テーマとスタイルを使って、文書全体の統一感を出すこともできます。</mrk>
+						<mrk mtype="seg" mid="23">[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。</mrk>
+						<mrk mtype="seg" mid="24">スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="22">You can also use themes and styles to create a sense of unity throughout the document.</mrk>
+						<mrk mtype="seg" mid="23">Click Design and choose a new theme, and the diagrams, charts, and SmartArt graphics will change to match the new theme.</mrk>
+						<mrk mtype="seg" mid="24">When you apply a style, the headings change to match the new theme.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="22" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 4 b b b" percent="100">
+							<sdl:rep id="nYBJw3DItOggDn+w9SdHE+QQl4I="/>
+							<sdl:value key="SegmentIdentityHash">nYBJw3DItOggDn+w9SdHE+QQl4I=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:38</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="23" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 8" percent="100">
+							<sdl:rep id="KwhWVs2ckC38imrWYNS2sWH2+YY="/>
+							<sdl:value key="SegmentIdentityHash">KwhWVs2ckC38imrWYNS2sWH2+YY=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:38</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="24" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 9" percent="100">
+							<sdl:rep id="uWZconDVXtWL/ObamcqU3zmit58="/>
+							<sdl:value key="SegmentIdentityHash">uWZconDVXtWL/ObamcqU3zmit58=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:39</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="5"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="46f9e8a4-6c16-49b6-9f15-df1bde90dfa9">
+					<source>Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="25">Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。</mrk>
+						<mrk mtype="seg" mid="26">文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。</mrk>
+						<mrk mtype="seg" mid="27">表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="25">Word displays new buttons on the fly when needed, so you can work more efficiently.</mrk>
+						<mrk mtype="seg" mid="26">To change the way photos are laid out in your document, click on a photo and a button with layout options will appear next to it.</mrk>
+						<mrk mtype="seg" mid="27">If you are working in a table, click where you want to add a row or column and click the plus sign.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="25" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 10" percent="100">
+							<sdl:rep id="QA5fq6qp+2QmW3cv7lLX7OvO/Ck="/>
+							<sdl:value key="SegmentIdentityHash">QA5fq6qp+2QmW3cv7lLX7OvO/Ck=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:39</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="26" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 11" percent="100">
+							<sdl:rep id="28e83UdKYEkefOKoUSpJPCnw2II="/>
+							<sdl:value key="SegmentIdentityHash">28e83UdKYEkefOKoUSpJPCnw2II=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:39</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="27" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 12" percent="100">
+							<sdl:rep id="j0rIQpYGaYcLYsLrZWl953IEgI8="/>
+							<sdl:value key="SegmentIdentityHash">j0rIQpYGaYcLYsLrZWl953IEgI8=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:40</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+			<group>
+				<sdl:cxts>
+					<sdl:cxt id="6"/>
+					<sdl:cxt id="2"/>
+				</sdl:cxts>
+				<trans-unit id="234cdf60-24fd-4392-8d90-73f1d362e5f4">
+					<source>新しい閲覧ビューが導入され、閲覧もさらに便利になりました。文書の一部を折りたたんで、必要な箇所に集中することができます。最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</source>
+					<seg-source>
+						<mrk mtype="seg" mid="28">新しい閲覧ビューが導入され、閲覧もさらに便利になりました。</mrk>
+						<mrk mtype="seg" mid="29">文書の一部を折りたたんで、必要な箇所に集中することができます。</mrk>
+						<mrk mtype="seg" mid="30">最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</mrk>
+					</seg-source>
+					<target>
+						<mrk mtype="seg" mid="28">A new browsing view has been introduced, making browsing even more convenient.</mrk>
+						<mrk mtype="seg" mid="29">Collapse parts of your document so you can focus on where you need it.</mrk>
+						<mrk mtype="seg" mid="30">If you need to stop before you finish reading, Word remembers how much you&apos;ve read, even on another device.</mrk>
+					</target>
+					<sdl:seg-defs>
+						<sdl:seg id="28" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 13" percent="100">
+							<sdl:rep id="RDtLmZGf435TeRSMHeZdoBs/Dmc="/>
+							<sdl:value key="SegmentIdentityHash">RDtLmZGf435TeRSMHeZdoBs/Dmc=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:40</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="29" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 14" percent="100">
+							<sdl:rep id="BsDbZVt0kDA1o5Vy6/NW5WtpfgA="/>
+							<sdl:value key="SegmentIdentityHash">BsDbZVt0kDA1o5Vy6/NW5WtpfgA=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:40</sdl:value>
+						</sdl:seg>
+						<sdl:seg id="30" conf="Translated" origin="auto-propagated" origin-system="Propagated from segment 15" percent="100">
+							<sdl:rep id="r0mpM0jn8M6Nk2fFw71iCvgSvSw="/>
+							<sdl:value key="SegmentIdentityHash">r0mpM0jn8M6Nk2fFw71iCvgSvSw=</sdl:value>
+							<sdl:value key="last_modified_by">DESKTOP-PDNEJGJ\testuser</sdl:value>
+							<sdl:value key="modified_on">04/05/2020 06:57:41</sdl:value>
+						</sdl:seg>
+					</sdl:seg-defs>
+				</trans-unit>
+			</group>
+		</body>
+	</file>
+</xliff>

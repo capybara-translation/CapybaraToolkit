@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:capy="http://capybaratranslation.com/capyxliff/1.0" version="1.2" capy:version="1.0">
+  <file original="merged.docx.sdlxliff" source-language="ja" target-language="en" datatype="x-undefined">
+    <body>
+      <group id="0" capy:original-id="0">
+        <context-group>
+          <context context-type="x-key">efa5d8d5-8291-48af-a47e-9cbd25e709e6</context>
+        </context-group>
+        <trans-unit id="6d98afa6-0295-4224-932e-62c1be739407" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:0" translate="yes">
+          <source>ビデオを使うと、伝えたい内容を明確に表現できます。</source>
+          <target>{1&gt;{2&gt;{3&gt;With videos&lt;3}, you can clearly articulate&lt;2}&lt;1} what you want to convey.</target>
+          <capy:source-props />
+          <capy:target-props>
+            <capy:tag id="1">
+              <capy:content>&lt;mrk xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" mtype="x-sdl-comment" sdl:cid="4ed32fa1-171b-44f7-9705-bbdc99cb5b75" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="2">
+              <capy:content>&lt;mrk xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" mtype="x-sdl-comment" sdl:cid="7ec62c72-39ff-40d4-90be-aad1668ca670" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="3">
+              <capy:content>&lt;mrk xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" mtype="x-sdl-comment" sdl:cid="310063af-0fda-4a7a-b6ce-4f24d010fe32" /&gt;</capy:content>
+            </capy:tag>
+          </capy:target-props>
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="1" capy:original-id="1">
+        <context-group>
+          <context context-type="x-key">efa5d8d5-8291-48af-a47e-9cbd25e709e6</context>
+        </context-group>
+        <trans-unit id="409fcd9e-8edb-4688-9f55-93cc75fb48c9" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:1" translate="yes">
+          <source>[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。</source>
+          <target>Clicking Online Video will allow you to paste the video you want to add in the corresponding embed code.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="2" capy:original-id="2">
+        <context-group>
+          <context context-type="x-key">efa5d8d5-8291-48af-a47e-9cbd25e709e6</context>
+        </context-group>
+        <trans-unit id="11f8e98b-4ece-480a-99f9-7a1f4be8511d" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:2" translate="yes">
+          <source>キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</source>
+          <target>{4&gt;You can also enter keywords to search online for the best video for your document.&lt;4}</target>
+          <capy:source-props />
+          <capy:target-props>
+            <capy:tag id="4">
+              <capy:content>&lt;mrk xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" mtype="x-sdl-comment" sdl:cid="a3718ebe-6490-49fc-b832-a4bb1664d048" /&gt;</capy:content>
+            </capy:tag>
+          </capy:target-props>
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="3" capy:original-id="3">
+        <context-group>
+          <context context-type="x-key">17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b</context>
+        </context-group>
+        <trans-unit id="bcac4f48-8145-4815-bde5-77ef4f80a80e" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:3" translate="yes">
+          <source>Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。</source>
+          <target>Combine the header, footer, cover, and text box designs provided with Word to create professional-looking documents.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="4" capy:original-id="4">
+        <context-group>
+          <context context-type="x-key">17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b</context>
+        </context-group>
+        <trans-unit id="ffd19ce6-bc23-46a1-9e44-1c7b0962a9aa" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:4" translate="yes">
+          <source>たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。</source>
+          <target>For example, you can add matching covers, headers, and sidebars.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="5" capy:original-id="5">
+        <context-group>
+          <context context-type="x-key">17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b</context>
+        </context-group>
+        <trans-unit id="2b898b3c-b18a-4d44-b0c7-4110bda9f03b" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:5" translate="yes">
+          <source>[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。</source>
+          <target>Click {1&gt;Insert&lt;1}, then {2&gt;select the desired {3&gt;element&lt;3} in each gallery.&lt;2}</target>
+          <capy:source-props />
+          <capy:target-props>
+            <capy:tag id="1">
+              <capy:content>&lt;g id="Bold" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="2">
+              <capy:content>&lt;g id="Underline" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="3">
+              <capy:content>&lt;g id="Italic" /&gt;</capy:content>
+            </capy:tag>
+          </capy:target-props>
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="6" capy:original-id="6">
+        <context-group>
+          <context context-type="x-key">17eb0b62-5a6a-4e71-9610-b1d9b0c98c9b</context>
+        </context-group>
+        <trans-unit id="c6f56e9e-6e0a-4f77-add6-0ad4f8db02b6" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:6" translate="yes">
+          <source>テーマとスタイルを使って、文書全体の統一感を出すこともできます。</source>
+          <target>{4&gt;You&lt;4} {5&gt;can&lt;5} also use themes and styles to create a sense of unity {6&gt;throughout&lt;6} the document.</target>
+          <capy:source-props />
+          <capy:target-props>
+            <capy:tag id="4">
+              <capy:content>&lt;g id="Superscript" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="5">
+              <capy:content>&lt;g id="Subscript" /&gt;</capy:content>
+            </capy:tag>
+            <capy:tag id="6">
+              <capy:content>&lt;g id="SmallCaps" /&gt;</capy:content>
+            </capy:tag>
+          </capy:target-props>
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="7" capy:original-id="7">
+        <context-group>
+          <context context-type="x-key">ddf67bd7-8bc1-492e-be21-398fb3996c75</context>
+        </context-group>
+        <trans-unit id="dbbd2d1d-8593-4704-97c5-56da753e6140" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:7" translate="no">
+          <source></source>
+          <target></target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="8" capy:original-id="8">
+        <context-group>
+          <context context-type="x-key">ddf67bd7-8bc1-492e-be21-398fb3996c75</context>
+        </context-group>
+        <trans-unit id="eccda564-add1-47a0-8077-d73e38314874" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:8" translate="yes">
+          <source>[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。</source>
+          <target>Click Design and choose a new theme, and the diagrams, charts, and SmartArt graphics will change to match the new theme.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="9" capy:original-id="9">
+        <context-group>
+          <context context-type="x-key">ddf67bd7-8bc1-492e-be21-398fb3996c75</context>
+        </context-group>
+        <trans-unit id="c771a101-d418-4bc9-b3a6-068db24aec89" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:9" translate="yes">
+          <source>スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</source>
+          <target>When you apply a style, the headings change to match the new theme.‎‏</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="10" capy:original-id="10">
+        <context-group>
+          <context context-type="x-key">e2c0cb6d-6965-41f6-ab54-04e165038991</context>
+        </context-group>
+        <trans-unit id="f4b49827-2038-488d-8b4c-4adfda69e21d" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:10" translate="yes">
+          <source>Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。</source>
+          <target>Word displays new buttons on the fly when needed, so you can work more efficiently.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="11" capy:original-id="11">
+        <context-group>
+          <context context-type="x-key">e2c0cb6d-6965-41f6-ab54-04e165038991</context>
+        </context-group>
+        <trans-unit id="2f5636b1-2218-4a26-9016-b96c09676cda" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:11" translate="yes">
+          <source>文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。</source>
+          <target>To change the way photos are laid out in your document, click on a photo and a button with layout options will appear next to it.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="12" capy:original-id="12">
+        <context-group>
+          <context context-type="x-key">e2c0cb6d-6965-41f6-ab54-04e165038991</context>
+        </context-group>
+        <trans-unit id="72eec0ec-759d-4c8a-8597-b6177d10bf34" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:12" translate="yes">
+          <source>表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</source>
+          <target>If you are working in a table, click where you want to add a row or column and click the plus sign.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="13" capy:original-id="13">
+        <context-group>
+          <context context-type="x-key">01fd62ab-7771-4567-9313-8bba5a6182cb</context>
+        </context-group>
+        <trans-unit id="4a7e6e11-50fe-434c-877d-33f414707d96" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:13" translate="yes">
+          <source>新しい閲覧ビューが導入され、閲覧もさらに便利になりました。</source>
+          <target>A new browsing view has been introduced, making browsing even more convenient.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="14" capy:original-id="14">
+        <context-group>
+          <context context-type="x-key">01fd62ab-7771-4567-9313-8bba5a6182cb</context>
+        </context-group>
+        <trans-unit id="7b0c96ed-7cc9-49dd-9506-fd6d4b40e3d2" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:14" translate="yes">
+          <source>文書の一部を折りたたんで、必要な箇所に集中することができます。</source>
+          <target>Collapse parts of your document so you can focus on where you need it.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="15" capy:original-id="15">
+        <context-group>
+          <context context-type="x-key">01fd62ab-7771-4567-9313-8bba5a6182cb</context>
+        </context-group>
+        <trans-unit id="949c3a09-4149-41dd-b58e-bd6217d85e03" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:15" translate="yes">
+          <source>最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</source>
+          <target>If you need to stop before you finish reading, Word remembers how much you've read, even on another device.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="16" capy:original-id="16">
+        <context-group>
+          <context context-type="x-key">c70a0969-f44e-4873-a2bc-7c370dc8d495</context>
+        </context-group>
+        <trans-unit id="6ec88522-5399-45f0-a4ba-7fd1bc67a39c" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:16" translate="yes">
+          <source>ビデオを使うと、伝えたい内容を明確に表現できます。</source>
+          <target>With videos, you can clearly articulate what you want to convey.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="17" capy:original-id="17">
+        <context-group>
+          <context context-type="x-key">c70a0969-f44e-4873-a2bc-7c370dc8d495</context>
+        </context-group>
+        <trans-unit id="b455eb94-88b1-4f91-a1de-d5b30137a527" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:17" translate="yes">
+          <source>[オンライン ビデオ] をクリックすると、追加したいビデオを、それに応じた埋め込みコードの形式で貼り付けできるようになります。</source>
+          <target>Clicking Online Video will allow you to paste the video you want to add in the corresponding embed code.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="18" capy:original-id="18">
+        <context-group>
+          <context context-type="x-key">c70a0969-f44e-4873-a2bc-7c370dc8d495</context>
+        </context-group>
+        <trans-unit id="674ea404-dc69-4826-b3fb-b8631fea4a08" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:18" translate="yes">
+          <source>キーワードを入力して、文書に最適なビデオをオンラインで検索することもできます。</source>
+          <target>You can also enter keywords to search online for the best video for your document.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="19" capy:original-id="19">
+        <context-group>
+          <context context-type="x-key">540c90a5-5bd1-4eeb-ab1a-d0fde204f123</context>
+        </context-group>
+        <trans-unit id="6228f151-aaaa-42ca-bf55-9d749e7c3c49" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:19" translate="yes">
+          <source>Word に用意されているヘッダー、フッター、表紙、テキスト ボックス デザインを組み合わせると、プロのようなできばえの文書を作成できます。</source>
+          <target>Combine the header, footer, cover, and text box designs provided with Word to create professional-looking documents.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="20" capy:original-id="20">
+        <context-group>
+          <context context-type="x-key">540c90a5-5bd1-4eeb-ab1a-d0fde204f123</context>
+        </context-group>
+        <trans-unit id="e7f88b33-e516-441d-ba06-caf4ab11dff1" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:20" translate="yes">
+          <source>たとえば、一致する表紙、ヘッダー、サイドバーを追加できます。</source>
+          <target>For example, you can add matching covers, headers, and sidebars.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="21" capy:original-id="21">
+        <context-group>
+          <context context-type="x-key">540c90a5-5bd1-4eeb-ab1a-d0fde204f123</context>
+        </context-group>
+        <trans-unit id="00923daa-902e-4e98-b003-a83b1ee83c7f" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:21" translate="yes">
+          <source>[挿入] をクリックしてから、それぞれのギャラリーで目的の要素を選んでください。</source>
+          <target>Click Insert, then select the desired element in each gallery.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="22" capy:original-id="22">
+        <context-group>
+          <context context-type="x-key">c257616c-aa16-4a65-a53d-83b559c8550e</context>
+        </context-group>
+        <trans-unit id="593e6bab-ad68-4208-9dbc-dec4fad48b10" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:22" translate="yes">
+          <source>テーマとスタイルを使って、文書全体の統一感を出すこともできます。</source>
+          <target>You can also use themes and styles to create a sense of unity throughout the document.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="23" capy:original-id="23">
+        <context-group>
+          <context context-type="x-key">c257616c-aa16-4a65-a53d-83b559c8550e</context>
+        </context-group>
+        <trans-unit id="f89284d3-c527-4ea4-96bb-ddfe2bec7508" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:23" translate="yes">
+          <source>[デザイン] をクリックし新しいテーマを選ぶと、図やグラフ、SmartArt グラフィックが新しいテーマに合わせて変わります。</source>
+          <target>Click Design and choose a new theme, and the diagrams, charts, and SmartArt graphics will change to match the new theme.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="24" capy:original-id="24">
+        <context-group>
+          <context context-type="x-key">c257616c-aa16-4a65-a53d-83b559c8550e</context>
+        </context-group>
+        <trans-unit id="cbbe7808-93c4-48dc-85fe-13edf9250cc2" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:24" translate="yes">
+          <source>スタイルを適用すると、新しいテーマに適合するように見出しが変更されます。</source>
+          <target>When you apply a style, the headings change to match the new theme.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="25" capy:original-id="25">
+        <context-group>
+          <context context-type="x-key">46f9e8a4-6c16-49b6-9f15-df1bde90dfa9</context>
+        </context-group>
+        <trans-unit id="e26bae0a-c37a-4be2-854f-f33d89931a12" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:25" translate="yes">
+          <source>Word では、必要に応じてその場に新しいボタンが表示されるため、効率よく操作を進めることができます。</source>
+          <target>Word displays new buttons on the fly when needed, so you can work more efficiently.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="26" capy:original-id="26">
+        <context-group>
+          <context context-type="x-key">46f9e8a4-6c16-49b6-9f15-df1bde90dfa9</context>
+        </context-group>
+        <trans-unit id="06d83797-cce8-4083-8c82-51f68574a569" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:26" translate="yes">
+          <source>文書内に写真をレイアウトする方法を変更するには、写真をクリックすると、隣にレイアウト オプションのボタンが表示されます。</source>
+          <target>To change the way photos are laid out in your document, click on a photo and a button with layout options will appear next to it.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="27" capy:original-id="27">
+        <context-group>
+          <context context-type="x-key">46f9e8a4-6c16-49b6-9f15-df1bde90dfa9</context>
+        </context-group>
+        <trans-unit id="37d2f034-5fd5-4246-be73-0238ae3cab83" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:27" translate="yes">
+          <source>表で作業している場合は、行または列を追加する場所をクリックして、プラス記号をクリックします。</source>
+          <target>If you are working in a table, click where you want to add a row or column and click the plus sign.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="28" capy:original-id="28">
+        <context-group>
+          <context context-type="x-key">234cdf60-24fd-4392-8d90-73f1d362e5f4</context>
+        </context-group>
+        <trans-unit id="476559ef-9deb-4073-b04c-d06d41c7ff16" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:28" translate="yes">
+          <source>新しい閲覧ビューが導入され、閲覧もさらに便利になりました。</source>
+          <target>A new browsing view has been introduced, making browsing even more convenient.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="29" capy:original-id="29">
+        <context-group>
+          <context context-type="x-key">234cdf60-24fd-4392-8d90-73f1d362e5f4</context>
+        </context-group>
+        <trans-unit id="6703399e-7e8a-434c-9bd2-bcb2c76e6f03" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:29" translate="yes">
+          <source>文書の一部を折りたたんで、必要な箇所に集中することができます。</source>
+          <target>Collapse parts of your document so you can focus on where you need it.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+      <group id="30" capy:original-id="30">
+        <context-group>
+          <context context-type="x-key">234cdf60-24fd-4392-8d90-73f1d362e5f4</context>
+        </context-group>
+        <trans-unit id="d5e7d9f5-9b3c-4de8-ab20-fd8c823259d6" capy:original-id="1Lmwb2xdL4ft2BZL0_dc5:30" translate="yes">
+          <source>最後まで読み終わる前に中止する必要がある場合、Word では、たとえ別のデバイスであっても、どこまで読んだかが記憶されます。</source>
+          <target>If you need to stop before you finish reading, Word remembers how much you've read, even on another device.</target>
+          <capy:source-props />
+          <capy:target-props />
+          <alt-trans origin="machine-trans">
+            <target></target>
+          </alt-trans>
+          <alt-trans origin="memsource-tm">
+            <target></target>
+          </alt-trans>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

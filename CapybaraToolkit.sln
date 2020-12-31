@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapybaraToolkit", "CapybaraToolkit\CapybaraToolkit.csproj", "{4910F60C-5769-4D75-871F-2883CF6B3027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapybaraToolkitTests", "CapybaraToolkitTests\CapybaraToolkitTests.csproj", "{6280A02B-F155-40BB-8897-66DFA7EB3013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4910F60C-5769-4D75-871F-2883CF6B3027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4910F60C-5769-4D75-871F-2883CF6B3027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4910F60C-5769-4D75-871F-2883CF6B3027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4910F60C-5769-4D75-871F-2883CF6B3027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6280A02B-F155-40BB-8897-66DFA7EB3013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6280A02B-F155-40BB-8897-66DFA7EB3013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6280A02B-F155-40BB-8897-66DFA7EB3013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6280A02B-F155-40BB-8897-66DFA7EB3013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BBD3F4-B338-4DB8-81CC-9514BED2EE2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff version="1.2"
+       capy:version="1.0"
+       xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:capy="http://capybaratranslation.com/capyxliff/1.0">
+    <file original="hello.mxliff" source-language="ja" target-language="en"
+          datatype="x-mxliff">
+        <body>
+            <group id="0" capy:original-id="0">
+                <trans-unit id="1" capy:original-id="1">
+                    <source>{1} これは{2&gt;りんご&lt;2}です。{b&gt;ボールド&lt;b}</source>
+                    <target>{1} This is an {2&gt;apple&lt;2}. {b&gt;bold&lt;b} {3}</target>
+                    <alt-trans origin="machine-trans">
+                        <target>This is an apple. bold</target>
+                    </alt-trans>
+                    <alt-trans origin="machine-trans">
+                        <target>{1} This is an {2&gt;apple&lt;2}. {b&gt;bold&lt;b}</target>
+                    </alt-trans>
+                    <capy:source-props>
+                        <capy:tag id="1">
+                            <capy:content>&lt;x id="1" /&gt;</capy:content>
+                        </capy:tag>
+                        <capy:tag id="2">
+                            <capy:content>&lt;g id="2" /&gt;</capy:content>
+                        </capy:tag>
+                    </capy:source-props>
+                    <capy:target-props>
+                        <capy:tag id="1">
+                            <capy:content>&lt;x id="1" /&gt;</capy:content>
+                        </capy:tag>
+                        <capy:tag id="2">
+                            <capy:content>&lt;g id="2" /&gt;</capy:content>
+                        </capy:tag>
+                        <capy:tag id="3">
+                            <capy:content>&lt;x id="3" /&gt;</capy:content>
+                        </capy:tag>
+                    </capy:target-props>
+                </trans-unit>
+                <trans-unit id="2" capy:original-id="2">
+                    <source>こんにちは</source>
+                    <target>Hello</target>
+                    <alt-trans origin="machine-trans">
+                        <target>Hola1</target>
+                    </alt-trans>
+                    <alt-trans origin="machine-trans">
+                        <target>Hola2</target>
+                    </alt-trans>
+                    <capy:props></capy:props>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+    <file original="hello.sdlxliff" source-language="ja" target-language="en"
+           datatype="x-sdlxliff">
+        <body>
+            <group id="0" capy:original-id="0">
+                <trans-unit id="1" capy:original-id="1">
+                    <source>こんにちは</source>
+                    <target>Hello</target>
+                    <capy:props></capy:props>
+                </trans-unit>
+                <trans-unit id="2" capy:original-id="2">
+                    <source>こんにちは</source>
+                    <target>Hello</target>
+                    <capy:props></capy:props>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>
