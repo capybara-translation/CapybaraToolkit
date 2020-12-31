@@ -50,9 +50,9 @@ namespace CapybaraToolkit.Capyxliff
             root.Add(new XAttribute("translate", Translate ? "yes" : "no"));
             root.Add(Source.ToElement());
             root.Add(Target.ToElement());
+            root.Add(AltTranslations.Select(x => x.ToElement()));
             root.Add(SourceProps.ToElement());
             root.Add(TargetProps.ToElement());
-            root.Add(AltTranslations.Select(x => x.ToElement()));
             return root;
         }
     }
